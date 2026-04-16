@@ -1,4 +1,4 @@
-Founder & CEO @ Axon (YC W26)
+Founder & CEO @ Axon 
 Building the Nervous System for the Agentic Economy.
 
 In 2026, the bottleneck for AI isn't intelligence—it's agency. Large Language Models provide the brain, but they are currently financially and legally locked out of the real world. I founded Axon to build the "plumbing" that turns stateless chatbots into autonomous Digital Employees.
